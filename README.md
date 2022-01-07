@@ -6,7 +6,7 @@ Prends en paramètre le fichier contenant la map, généré par generator.sh
 
 python3 bsq.py map
 
-# generator
+# Generator
 
 Gènére la map, néccéssite 3 paramètres: 
 param 1: (integer) le nombre de lignes
@@ -15,7 +15,7 @@ param 3: (integer) la densité d'emplacement libre/occupé
 
 perl generator.sh 10 10 10
 
-#Anagram
+# Anagram
 
 Permet de trouver des anagram d'un mot, même nombre de caractères et mêmes caractères.
 Prend en paramètre le mot:
